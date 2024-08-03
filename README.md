@@ -1,2 +1,3 @@
-# LLM_Similarity_Demo
-Demo of A Perplexity and Curvature-Based Approach for Similarity Evaluation of Large Language Model
+# A Perplexity and Curvature-Based Approach for Similarity Evaluation of Large Language Model
+## Abstract
+The rise of Large Language Models (LLMs) and their increasing popularity have introduced issues of copyright violations and unethical practices in using data and models. Among the numerous open-source and closed-source LLMs that have emerged recently, a model may be slightly modified and encapsulated to be claimed as a new development, which involves model copying and damage to model ownership. This paper addresses these concerns by presenting a novel metric for quantifying LLM similarity, utilizing perplexity curves and curvature differences to detect structural and parametric discrepancies. Extensive experiments validate our methodology across various datasets and models. Furthermore, we demonstrate the capability of our approach in detecting model replication, emphasizing its potential to maintain the originality of LLMs. If this paper is accepted, the code will be released as open source.
